@@ -49,6 +49,7 @@ require("./to-port-to-wpts/on-error.js");
 require("./to-port-to-wpts/parent-node.js");
 require("./to-port-to-wpts/parsing.js");
 require("./to-port-to-wpts/post-message.js");
+require("./to-port-to-wpts/post-message-iframes.js");
 require("./to-port-to-wpts/query-selector-all.js");
 require("./to-port-to-wpts/query-selector.js");
 require("./to-port-to-wpts/script.js");
